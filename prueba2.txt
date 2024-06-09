@@ -1,0 +1,25 @@
+
+a=1
+b=3
+
+print("Comienzo del programa")
+
+if a < b:
+    print("a es menor que b, gana", a)
+else:
+    print("a es mayor que b, gana", b)
+
+print("Entrando al bucle while")
+i = 0
+while i < 5:
+    print("Valor de i dentro del bucle while:", i = i+1)
+print("Saliendo del bucle while")
+
+print("Imprimiendo el valor de a nuevamente:")
+print(a)
+
+print("Comprobando si b es menor que a")
+print("Imprimiendo el valor booleano:")
+print(b < a)
+
+print("Fin del programa")

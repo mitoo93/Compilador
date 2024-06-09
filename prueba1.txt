@@ -1,0 +1,14 @@
+a = 10
+b = 20
+
+c = a + b
+print("La suma de", a, "y", b, "es", c)
+
+c = b - a
+print("La resta de", b, "y", a, "es", c)
+
+c = a * b
+print("El producto de", a, "y", b, "es", c)
+
+c = b / a
+print("La división de", b, "entre", a, "es", c)

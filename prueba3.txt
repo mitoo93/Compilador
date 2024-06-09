@@ -1,0 +1,15 @@
+a = 10
+b = 20
+
+c = a + b
+
+c = b - a
+
+c = a * b
+
+c = b / a
+
+if a < b:
+    b=5
+else:
+    a=b
